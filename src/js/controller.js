@@ -11,7 +11,8 @@ import "core-js/stable";
 // polyfiling async await for old browser
 import "regenerator-runtime/runtime";
 // when we import default exports there is no need for {}
-import searchView from "./views/searchView";
+import searchView from "./views/searchView.js";
+import resultsView from "./views/resultsView.js";
 
 // Loading recipe data from the Api
 const showRecipe = async function () {
@@ -48,6 +49,7 @@ const controlSearchResults = async function () {
 
     // 3) Render results
     console.log(model.state.search.results);
+    resultsView.render(model.state.search.results);
   } catch (error) {
     console.log(error);
   }

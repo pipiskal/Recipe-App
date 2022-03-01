@@ -1784,7 +1784,7 @@
 99/home/spyros/Desktop/18-forkify2/node_modules/core-js/proposals/object-getownpropertydescriptors.js1646126589037392414 0
 85/home/spyros/Desktop/18-forkify2/node_modules/@parcel/packager-css/lib/CSSPackager.js1646121209586638367 0
 66/home/spyros/Desktop/18-forkify2/node_modules/@parcel/packager-css1646121209630638945 1
-56/home/spyros/Desktop/18-forkify2/dist/icons.21bad73c.svg1646156834976683838 0
+56/home/spyros/Desktop/18-forkify2/dist/icons.21bad73c.svg1646161723693146252 0
 88/home/spyros/Desktop/18-forkify2/node_modules/core-js/features/typed-array/int8-array.js1646126588985391696 0
 93/home/spyros/Desktop/18-forkify2/node_modules/@parcel/resolver-default/src/DefaultResolver.js1646121209610638682 0
 77/home/spyros/Desktop/18-forkify2/node_modules/caniuse-lite/data/regions/TZ.js1646121209926642837 0
@@ -1907,7 +1907,7 @@
 91/home/spyros/Desktop/18-forkify2/node_modules/@parcel/core/lib/public/MutableBundleGraph.js1646121209830641575 0
 83/home/spyros/Desktop/18-forkify2/node_modules/@parcel/core/lib/public/Dependency.js1646121209802641207 0
 86/home/spyros/Desktop/18-forkify2/node_modules/@parcel/hash/parcel-hash.darwin-x64.node1646121209734640313 0
-55/home/spyros/Desktop/18-forkify2/dist/index.e37f48ea.js1646156835000684170 0
+55/home/spyros/Desktop/18-forkify2/dist/index.e37f48ea.js1646163405924029142 0
 81/home/spyros/Desktop/18-forkify2/node_modules/caniuse-lite/data/features/fetch.js1646121209878642206 0
 89/home/spyros/Desktop/18-forkify2/node_modules/core-js/features/number/max-safe-integer.js1646126589025392248 0
 83/home/spyros/Desktop/18-forkify2/node_modules/core-js/actual/object/from-entries.js1646126588945391143 0
@@ -2373,7 +2373,7 @@
 76/home/spyros/Desktop/18-forkify2/node_modules/postcss-discard-overridden/src1646121209554637946 1
 69/home/spyros/Desktop/18-forkify2/node_modules/csso/lib/replace/atrule1646121209774640839 1
 73/home/spyros/Desktop/18-forkify2/node_modules/cosmiconfig/dist/index.d.ts1646121209742640418 0
-60/home/spyros/Desktop/18-forkify2/dist/index.f7626f62.css.map1646156834972683783 0
+60/home/spyros/Desktop/18-forkify2/dist/index.f7626f62.css.map1646161723685146116 0
 73/home/spyros/Desktop/18-forkify2/node_modules/nanoid/non-secure/index.cjs1646121209630638945 0
 85/home/spyros/Desktop/18-forkify2/node_modules/@parcel/optimizer-htmlnano/package.json1646121209650639209 0
 90/home/spyros/Desktop/18-forkify2/node_modules/caniuse-lite/data/features/feature-policy.js1646121209878642206 0
@@ -2870,7 +2870,7 @@
 79/home/spyros/Desktop/18-forkify2/node_modules/@parcel/optimizer-image/native.js1646121209614638734 0
 71/home/spyros/Desktop/18-forkify2/node_modules/htmlparser2/lib/Parser.js1646121209614638734 0
 80/home/spyros/Desktop/18-forkify2/node_modules/core-js/modules/es.array.concat.js1646126588873390148 0
-60/home/spyros/Desktop/18-forkify2/src/js/views/resultsView.js1646156177139590570 0
+60/home/spyros/Desktop/18-forkify2/src/js/views/resultsView.js1646163405840027831 0
 55/home/spyros/Desktop/18-forkify2/src/sass/_preview.scss1636639937000000000 0
 79/home/spyros/Desktop/18-forkify2/node_modules/core-js/stable/instance/values.js1646126589117393519 0
 80/home/spyros/Desktop/18-forkify2/node_modules/core-js/modules/es.symbol.split.js1646126588897390479 0
@@ -2952,7 +2952,7 @@
 85/home/spyros/Desktop/18-forkify2/node_modules/@parcel/core/src/ParcelConfig.schema.js1646121209838641679 0
 82/home/spyros/Desktop/18-forkify2/node_modules/core-js/stable/string/starts-with.js1646126589081393022 0
 87/home/spyros/Desktop/18-forkify2/node_modules/cosmiconfig/dist/getPropertyByPath.js.map1646121209702639891 0
-53/home/spyros/Desktop/18-forkify2/src/js/controller.js1646156174275551029 0
+53/home/spyros/Desktop/18-forkify2/src/js/controller.js1646162304446682447 0
 96/home/spyros/Desktop/18-forkify2/node_modules/caniuse-lite/data/features/alternate-stylesheet.js1646121209734640313 0
 80/home/spyros/Desktop/18-forkify2/node_modules/core-js/features/instance/flags.js1646126588937391032 0
 89/home/spyros/Desktop/18-forkify2/node_modules/core-js/features/typed-array/uint8-array.js1646126589113393464 0
@@ -3300,7 +3300,7 @@
 89/home/spyros/Desktop/18-forkify2/node_modules/@parcel/core/src/requests/PackageRequest.js1646121209830641575 0
 57/home/spyros/Desktop/18-forkify2/node_modules/.bin/nanoid1646121210106645203 0
 86/home/spyros/Desktop/18-forkify2/node_modules/@swc/helpers/lib/_to_consumable_array.js1646121209758640628 0
-56/home/spyros/Desktop/18-forkify2/dist/icons.dfd7a6db.svg1646156834976683838 0
+56/home/spyros/Desktop/18-forkify2/dist/icons.dfd7a6db.svg1646161723693146252 0
 77/home/spyros/Desktop/18-forkify2/node_modules/css-select/lib/pseudo-selectors1646121209738640364 1
 78/home/spyros/Desktop/18-forkify2/node_modules/chokidar/lib/fsevents-handler.js1646121364052689751 0
 68/home/spyros/Desktop/18-forkify2/node_modules/ordered-binary/LICENSE1646121209518637473 0
@@ -3350,7 +3350,7 @@
 79/home/spyros/Desktop/18-forkify2/node_modules/core-js/stable/instance/repeat.js1646126589053392635 0
 67/home/spyros/Desktop/18-forkify2/node_modules/css-what/lib/parse.js1646121209602638576 0
 93/home/spyros/Desktop/18-forkify2/node_modules/@parcel/transformer-sass/lib/SassTransformer.js1646121364052689751 0
-53/home/spyros/Desktop/18-forkify2/src/js/views/View.js1646155349019996746 0
+53/home/spyros/Desktop/18-forkify2/src/js/views/View.js1646161860611449713 0
 91/home/spyros/Desktop/18-forkify2/node_modules/caniuse-lite/data/features/contenteditable.js1646121209818641416 0
 71/home/spyros/Desktop/18-forkify2/node_modules/svgo/plugins/sortAttrs.js1646121209794641101 0
 80/home/spyros/Desktop/18-forkify2/node_modules/core-js/es/symbol/to-string-tag.js1646126589097393243 0
@@ -3457,7 +3457,7 @@
 71/home/spyros/Desktop/18-forkify2/node_modules/domutils/lib/helpers.d.ts1646121209702639891 0
 129/home/spyros/Desktop/18-forkify2/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/source-not-symlinked/source.js1646121209838641679 0
 78/home/spyros/Desktop/18-forkify2/node_modules/core-js/es/instance/match-all.js1646126589021392192 0
-58/home/spyros/Desktop/18-forkify2/dist/favicon.8b2f57bf.png1646156834976683838 0
+58/home/spyros/Desktop/18-forkify2/dist/favicon.8b2f57bf.png1646161723685146116 0
 83/home/spyros/Desktop/18-forkify2/node_modules/postcss-reduce-transforms/LICENSE-MIT1646121209550637894 0
 84/home/spyros/Desktop/18-forkify2/node_modules/core-js/stable/string/virtual/small.js1646126589073392911 0
 85/home/spyros/Desktop/18-forkify2/node_modules/csso/lib/replace/property/background.js1646121209706639945 0
@@ -3733,7 +3733,7 @@
 105/home/spyros/Desktop/18-forkify2/node_modules/msgpackr-extract/prebuilds/darwin-arm64/electron.abi98.node1646121209670639470 0
 100/home/spyros/Desktop/18-forkify2/node_modules/@parcel/core/test/fixtures/invalid-source-not-file/src1646121209818641416 1
 66/home/spyros/Desktop/18-forkify2/node_modules/msgpackr-extract/src1646121209550637894 1
-37/home/spyros/Desktop/18-forkify2/dist1646156877173266783 1
+37/home/spyros/Desktop/18-forkify2/dist1646163405924029142 1
 78/home/spyros/Desktop/18-forkify2/node_modules/core-js/es/array/virtual/flat.js1646126588937391032 0
 74/home/spyros/Desktop/18-forkify2/node_modules/core-js/es/object/entries.js1646126588869390092 0
 93/home/spyros/Desktop/18-forkify2/node_modules/@swc/helpers/src/_initializer_warning_helper.js1646121209794641101 0
@@ -3801,7 +3801,7 @@
 89/home/spyros/Desktop/18-forkify2/node_modules/caniuse-lite/data/features/sharedworkers.js1646121209914642679 0
 82/home/spyros/Desktop/18-forkify2/node_modules/css-tree/lib/syntax/config/parser.js1646121209834641628 0
 77/home/spyros/Desktop/18-forkify2/node_modules/core-js/features/is-iterable.js1646126588993391806 0
-59/home/spyros/Desktop/18-forkify2/src/js/views/searchView.js1646155151733141430 0
+59/home/spyros/Desktop/18-forkify2/src/js/views/searchView.js1646160263489652105 0
 66/home/spyros/Desktop/18-forkify2/node_modules/core-js/web/index.js1646126588985391696 0
 72/home/spyros/Desktop/18-forkify2/node_modules/node-addon-api/common.gypi1646121209578638261 0
 78/home/spyros/Desktop/18-forkify2/node_modules/core-js/features/array/filter.js1646126588929390922 0
@@ -3846,7 +3846,7 @@
 118/home/spyros/Desktop/18-forkify2/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/@scope/pkg/index.js1646121209770640785 0
 64/home/spyros/Desktop/18-forkify2/node_modules/node-releases/data1646121209634638998 1
 81/home/spyros/Desktop/18-forkify2/node_modules/svgo/plugins/convertStyleToAttrs.js1646121209734640313 0
-48/home/spyros/Desktop/18-forkify2/dist/index.html1646156877173266783 0
+48/home/spyros/Desktop/18-forkify2/dist/index.html1646163235157361395 0
 51/home/spyros/Desktop/18-forkify2/src/sass/main.scss1636639937000000000 0
 58/home/spyros/Desktop/18-forkify2/node_modules/mdn-data/api1646121209702639891 1
 78/home/spyros/Desktop/18-forkify2/node_modules/core-js/es/regexp/constructor.js1646126588849389816 0
@@ -4049,7 +4049,7 @@
 78/home/spyros/Desktop/18-forkify2/node_modules/lines-and-columns/build/index.js1646121209574638209 0
 80/home/spyros/Desktop/18-forkify2/node_modules/core-js/internals/composite-key.js1646126588845389761 0
 67/home/spyros/Desktop/18-forkify2/node_modules/nanoid/async/index.js1646121209674639524 0
-55/home/spyros/Desktop/18-forkify2/dist/logo.726d37a8.png1646156834992684059 0
+55/home/spyros/Desktop/18-forkify2/dist/logo.726d37a8.png1646161723709146524 0
 60/home/spyros/Desktop/18-forkify2/node_modules/dom-serializer1646121209622638840 1
 85/home/spyros/Desktop/18-forkify2/node_modules/json-parse-even-better-errors/README.md1646121209602638576 0
 84/home/spyros/Desktop/18-forkify2/node_modules/@parcel/core/test/ParcelConfig.test.js1646121209838641679 0
@@ -4188,7 +4188,7 @@
 71/home/spyros/Desktop/18-forkify2/node_modules/yaml/browser/types/set.js1646121209762640681 0
 96/home/spyros/Desktop/18-forkify2/node_modules/@parcel/runtime-js/src/helpers/node/html-loader.js1646121209718640103 0
 70/home/spyros/Desktop/18-forkify2/node_modules/core-js/actual/data-view1646126588969391474 1
-56/home/spyros/Desktop/18-forkify2/dist/index.f7626f62.css1646156834972683783 0
+56/home/spyros/Desktop/18-forkify2/dist/index.f7626f62.css1646161723685146116 0
 60/home/spyros/Desktop/18-forkify2/node_modules/yaml/types.mjs1646121209786640997 0
 90/home/spyros/Desktop/18-forkify2/node_modules/css-select/lib/pseudo-selectors/pseudos.d.ts1646121209738640364 0
 60/home/spyros/Desktop/18-forkify2/node_modules/yaml/schema.js1646121209758640628 0
@@ -5488,7 +5488,7 @@
 83/home/spyros/Desktop/18-forkify2/node_modules/core-js/proposals/pattern-matching.js1646126589045392524 0
 74/home/spyros/Desktop/18-forkify2/node_modules/core-js/es/array/flat-map.js1646126588937391032 0
 77/home/spyros/Desktop/18-forkify2/node_modules/core-js/actual/instance/sort.js1646126589073392911 0
-59/home/spyros/Desktop/18-forkify2/dist/index.e37f48ea.js.map1646156835000684170 0
+59/home/spyros/Desktop/18-forkify2/dist/index.e37f48ea.js.map1646163405924029142 0
 73/home/spyros/Desktop/18-forkify2/node_modules/core-js/es/array/entries.js1646126588869390092 0
 76/home/spyros/Desktop/18-forkify2/node_modules/lmdb/dependencies/lmdb-data-v11646121209550637894 1
 70/home/spyros/Desktop/18-forkify2/node_modules/core-js/es/array/join.js1646126589001391916 0
@@ -5892,7 +5892,7 @@
 90/home/spyros/Desktop/18-forkify2/node_modules/core-js/features/string/virtual/match-all.js1646126589021392192 0
 63/home/spyros/Desktop/18-forkify2/node_modules/lmdb/util/when.js1646121209858641943 0
 90/home/spyros/Desktop/18-forkify2/node_modules/core-js/features/string/virtual/ends-with.js1646126588865390037 0
-59/home/spyros/Desktop/18-forkify2/src/js/views/recipeView.js1646156180475636628 0
+59/home/spyros/Desktop/18-forkify2/src/js/views/recipeView.js1646161774682009542 0
 78/home/spyros/Desktop/18-forkify2/node_modules/core-js/actual/regexp/dot-all.js1646126588865390037 0
 77/home/spyros/Desktop/18-forkify2/node_modules/caniuse-lite/data/regions/KH.js1646121209890642364 0
 84/home/spyros/Desktop/18-forkify2/node_modules/core-js/features/string/virtual/sub.js1646126589085393077 0
@@ -6093,7 +6093,7 @@
 85/home/spyros/Desktop/18-forkify2/node_modules/core-js/features/typed-array/reverse.js1646126589057392690 0
 91/home/spyros/Desktop/18-forkify2/node_modules/abortcontroller-polyfill/dist/umd-polyfill.js1646121209690639734 0
 92/home/spyros/Desktop/18-forkify2/node_modules/caniuse-lite/data/features/css-motion-paths.js1646121209850641837 0
-43/home/spyros/Desktop/18-forkify2/index.html1646156877069265346 0
+43/home/spyros/Desktop/18-forkify2/index.html1646163235065359956 0
 65/home/spyros/Desktop/18-forkify2/node_modules/core-js/actual/date1646126589097393243 1
 83/home/spyros/Desktop/18-forkify2/node_modules/stylehacks/src/plugins/leadingStar.js1646121209682639628 0
 91/home/spyros/Desktop/18-forkify2/node_modules/core-js/features/typed-array/float64-array.js1646126588937391032 0

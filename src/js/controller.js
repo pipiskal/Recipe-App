@@ -10,9 +10,8 @@ import recipeView from "./views/recipeView.js";
 import "core-js/stable";
 // polyfiling async await for old browser
 import "regenerator-runtime/runtime";
-
-// async functions will awlways a promise
-// we should always start an async function with try and catch block
+// when we import default exports there is no need for {}
+import searchView from "./views/searchView";
 
 // Loading recipe data from the Api
 const showRecipe = async function () {
@@ -37,21 +36,27 @@ const showRecipe = async function () {
 
 // Lets listen for an event when hash is changing on window level
 // Publisher --- Subscriber pattern
-const init = function () {
-  recipeView.addHandlerRender(showRecipe);
-  showRecipe();
-};
 
 const controlSearchResults = async function () {
   try {
-    await model.loadSearchResults("pizza");
+    // 1) Get search query
+    const query = searchView.getQuery();
+    if (!query) return;
 
+    // 2) Load search results
+    await model.loadSearchResults(query);
+
+    // 3) Render results
     console.log(model.state.search.results);
   } catch (error) {
     console.log(error);
   }
 };
 
-controlSearchResults();
+const init = function () {
+  recipeView.addHandlerRender(showRecipe);
+  searchView.addHandlerSearch(controlSearchResults);
+  showRecipe();
+};
 
 init();

@@ -1,3 +1,4 @@
+import View from "./View.js";
 // we need to make sure that the icons gets loaded from the distribution folder
 // so we import our icons and the parcel gets the job done
 import icons from "url:../../img/icons.svg"; //Parcel 2
